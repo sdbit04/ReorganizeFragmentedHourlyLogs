@@ -25,5 +25,5 @@ Thereby, It can be executed in the following two way.
 --> reorganize_fragmented_hourly_logs.exe <base_path>
 
 2) To run this manually one time for past date:
---> reorganize_fragmented_hourly_logs.exe <base_path> --dirdate <YYYYMMDD>
+--> reorganize_fragmented_hourly_logs.exe <base_path> --dirdate YYYYMMDD
   
