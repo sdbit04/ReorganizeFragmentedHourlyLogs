@@ -1,0 +1,5 @@
+.idea/
+build/
+dist/
+reorganize_fragmented_hourly_logs.spec
+*/__pycache__/*
